@@ -33,10 +33,13 @@ If you would like to contribute/improve a translation:
 #### Thank you to our contributors
 ##### German
 * Jean Schmitt, repat, mrbiber, leibi,gehfab
+
 ##### Spanish
 * Jorge Iván Andrés Contreras Pereira, Cesar Schulzbacher, Manuel Perez, vndtta
+
 ##### French
 * sharkyiwc and boing
+
 ##### Italian
 * lgasp, dickhead, Mauriziopz, mangholb, riky and besa
 
